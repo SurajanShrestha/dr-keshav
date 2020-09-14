@@ -88,7 +88,10 @@
 		margin:0,
 		//Changes
 	    /*animateOut: 'fadeOut',
-	    animateIn: 'fadeIn',*/
+		animateIn: 'fadeIn',*/
+		//New Additions
+		mouseDrag: false,
+		touchDrag: false,
 	    nav:false,
 	    autoplayHoverPause: false,
 	    items: 1,
